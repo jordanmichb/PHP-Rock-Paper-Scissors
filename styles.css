@@ -1,0 +1,44 @@
+* {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #1f1f1f;
+}
+
+body {
+    padding: 50px 100px;
+}
+
+a {
+    color: #337ab7;
+}
+
+.error {
+    color: red;
+}
+
+.login-form div {
+    padding: .25rem 0;
+}
+
+.login-form label {
+    display: inline-block;
+    width: 6rem;
+}
+
+.login-form .login {
+    margin-top: 20px;
+    margin-right: 10px;
+}
+
+.board {
+    border: 1px solid #808080;
+    background-color: #eeeeee;
+    width: 100%;
+    border-radius: 5px;
+    padding: .75rem;
+    margin-top: 30px;
+    font-family: "Courier New";
+}
+
+.hint {
+    font-size: .7rem;
+}
